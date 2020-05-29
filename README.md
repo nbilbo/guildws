@@ -11,7 +11,9 @@
 
 <h2>requisitos:</h2>
 
-* python 2x ou python 3x
+*  python-tk package (caso use python 2x) `sudo apt-get install python-tk`
+
+* python3-tk (caso use python 3x) `sudo apt-get install python3-tk`
 
 * sqlite3
 
