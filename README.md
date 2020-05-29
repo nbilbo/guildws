@@ -11,9 +11,10 @@
 
 <h2>requisitos:</h2>
 
-* python 3.7
+* python 2x ou python 3x
 
 * sqlite3
+
 
 <h2>Adicionando jogadores.</h2>
 
